@@ -1,0 +1,3 @@
+0 Hava kirliligi
+1 Su kirliligi
+2 Sehir kirliligi
